@@ -1,0 +1,6 @@
+D:\programs\GIT_C#\Function_5_th\Function_5_th\bin\Debug\Function_5_th.exe.config
+D:\programs\GIT_C#\Function_5_th\Function_5_th\bin\Debug\Function_5_th.exe
+D:\programs\GIT_C#\Function_5_th\Function_5_th\bin\Debug\Function_5_th.pdb
+D:\programs\GIT_C#\Function_5_th\Function_5_th\obj\Debug\Function_5_th.csprojResolveAssemblyReference.cache
+D:\programs\GIT_C#\Function_5_th\Function_5_th\obj\Debug\Function_5_th.exe
+D:\programs\GIT_C#\Function_5_th\Function_5_th\obj\Debug\Function_5_th.pdb
